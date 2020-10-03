@@ -1,7 +1,7 @@
 # Data_Science_Projects
-Data Science Portfolio
-In this portfolio, I have uploaded some of my work samples what I have done so far in last two years.
-Just to show that , I have knowledge and experience in : 
+Data Science Portfolio:
+In this portfolio, I have uploaded some of my work samples what I have learned (want to learn more and more) so far in last two years of my career.
+Just to show that: 
 — As a Data Scientist / Data Analyst , I have stronger skills in both statistics and programming .
 
 — I have Bachelor’s Degree from Hunter College( City University Of New York).
