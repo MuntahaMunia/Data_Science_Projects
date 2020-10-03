@@ -8,7 +8,7 @@ Just to show that:
 Major in Bioinformatics and Minor in Statistics.
 
 — Technical Skills ::
-Databases : SQL, SPSS, R,Matlab , Excel
+Databases : SQL, SPSS, R,Matlab , Excel(Vlookup, pivot table and macros)
 Language : Unix , Perl
 Data Science Skills : Python & Libraries ( Pandas, Numpy, Scipy , Matplotlib, Seaborn , Sckitlearn ), Excel ( Vloopkup, Pivot tables, and macros)
 Data Visualisation Skills: Looker, Tableau , PowerBI 
