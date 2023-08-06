@@ -1,6 +1,6 @@
 # Data_Science_Projects
 Data Science Portfolio:
-In this portfolio, I have uploaded some of my work samples ,what I have learned/created so far in the last three years of my career.
+In this portfolio, I have uploaded some of my work samples ,what I have learned/created so far in the last four years of my career.
 Just to show that: 
 ___As a Data Scientist with four-plus years of coding and programming experience. Extensive background in statistical modeling, database development, BI architecture, and Python programming. Proven production-grade deliveries for Fortune corporates. 
 
